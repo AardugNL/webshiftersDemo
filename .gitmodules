@@ -1,0 +1,4 @@
+[submodule "AardugNL/webshiftersDemo"]
+	path = AardugNL/webshiftersDemo
+	url = git@github.com:AardugNL/webshiftersDemo.git
+	branch = master
